@@ -1,2 +1,3 @@
 go mod init hello
 go mod tidy
+golang clean env
